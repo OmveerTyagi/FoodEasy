@@ -1,0 +1,4 @@
+/node_modules
+/dist
+.pardel-cache
+/coverage
